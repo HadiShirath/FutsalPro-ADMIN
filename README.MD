@@ -30,6 +30,10 @@ TRANSACTION
 
 ![Preview](./preview/listTransaction.png)
 
+DETAIL TRANSACTION
+
+![Preview](./preview/detailTransaction.png)
+
 USER
 
 ![Preview](./preview/listUser.png)
