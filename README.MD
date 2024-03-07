@@ -7,3 +7,7 @@ State Management : Redux,
 1. npm install
 2. config .env
 3. npm run start
+
+Preview
+
+![Preview](./preview/1.png)
