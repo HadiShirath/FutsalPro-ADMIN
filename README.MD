@@ -8,6 +8,8 @@ State Management : Redux,
 2. config .env
 3. npm run start
 
+![Preview](./preview/FutsalPro-Admin.jpg)
+
 Preview
 
 LOGIN
